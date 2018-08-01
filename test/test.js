@@ -4,7 +4,7 @@
 const expect = require('chai').expect
 const sortObjectKeys = require('../index')
 
-describe('#sort-object-keys()', () => {
+describe('#sortObjectKeys()', () => {
   it('should sort numerical keys', () => {
     const unsorted = {
       '3': 3,
