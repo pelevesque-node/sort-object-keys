@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/sort-object-keys",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sorts an object by keys.",
   "main": "index.js",
   "engines": {
