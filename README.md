@@ -8,7 +8,7 @@ Sorts an object by keys.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/sort-object-keys](https://www.npmjs.com/package/@pelevesque/sort-object-keys)
+https://www.npmjs.com/package/@pelevesque/sort-object-keys
 
 ## Installation
 
