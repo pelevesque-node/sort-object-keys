@@ -28,6 +28,9 @@ https://www.npmjs.com/package/@pelevesque/sort-object-keys
 
 ```js
 const sortObjectKeys = require('@pelevesque/sort-object-keys')
+```
+
+```js
 const unsorted = { "3": 3, "1": 1, "2": 2, "0": 0 }
 const result = sortObjectKeys(unsorted)
 // result === { "0": 0, "1": 1, "2": 2, "3": 3 }
